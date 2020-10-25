@@ -9,7 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 
-personal-notes.txt
-
 # macOS
 .DS_Store
+personal-notes.txt
